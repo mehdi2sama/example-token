@@ -2,7 +2,7 @@ module.exports = {
   // eslint-disable-line import/no-commonjs
   env: {
     browser: true,
-    es6: true,
+    es6: false,
     node: true,
   },
   plugins: ['react'],
